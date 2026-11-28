@@ -1,3 +1,6 @@
+# Encryption-Decryption Program
+# Copyright (c) 2026 Arhaan Patolia
+
 from cryptography.fernet import Fernet, InvalidToken
 import time
 import sys
